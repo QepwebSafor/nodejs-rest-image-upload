@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+    "author": {
+    "name": "Quica Espi Puig",
+    "email": "qepsaforweb@gmail.com"
+  },
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
